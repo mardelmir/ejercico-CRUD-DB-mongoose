@@ -2,10 +2,10 @@
   "name": "ejercico-crud-db-mongoose",
   "version": "1.0.0",
   "description": "Aplicación sencilla en Node.js utilizando Express con mongoose para crear una API de tareas, donde podras crear, ver, actualizar y borrar tareas.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "node --watch index.js"
+    "start": "node --watch app.js"
   },
   "keywords": [],
   "author": "",
