@@ -1,6 +1,6 @@
 # CRUD DE TAREAS CON MONGOOSE
 
-Esta es una aplicación sencilla en Node.js utilizando Express con mongoose para crear una API de tareas, donde podras crear, ver tareas, actulizar y borrarlas.
+Esta es una aplicación sencilla en Node.js utilizando Express con mongoose para crear una API de tareas, donde podras crear, ver, actualizar y borrar tareas.
 
 La estructura será la siguiente:
 - config
@@ -35,4 +35,4 @@ La estructura será la siguiente:
 
 
 # PISTAS:
-- Puedes partir del ejercicio del vídeo y modularlo y añadir lo que necesites nuevo.
+- Puedes partir del ejercicio del vídeo, modularlo y añadir lo que necesites nuevo.
