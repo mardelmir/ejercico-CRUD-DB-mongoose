@@ -18,7 +18,7 @@ La estructura será la siguiente:
 - GET /: Endpoint para traer todas las tareas.
 - GET /id/:_id: Endpoint para buscar tarea por id.
 - PUT /markAsCompleted/:_id: Endpoint para marcar una tarea como completada.
-- PUT /id/:_id: Endpoint para actualizar una tarea y que solo se pueda cambiar el título de la tarea. Es decir, que no me deje cambiar el campo  “completed” desde este endpoint, sino solo, el título.
+- PUT /id/:_id: Endpoint para actualizar una tarea y que solo se pueda cambiar el título de la tarea. Es decir, que no me deje cambiar el campo  “completed” desde este endpoint, sino solo el título.
 - DELETE /id/:_id: Endpoint para eliminar una tarea.
 
 
